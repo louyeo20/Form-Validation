@@ -1,4 +1,4 @@
-# Form-Validation
+# Form-Validation Using DOM
 Exercise on Form Validation
 
 This is a simple form validation exercise on how to ensure that both entries of Password and Confirm Password are identical before submission using DOM(Javascript)
